@@ -1,3 +1,7 @@
+# Desciption of Assignment 
+In this assignment i needed to create a portfolio using bootstrap and other frameworks learned in class. Additionally, I 
+added some personalization and key facts about me. Hope you enjoy what you see. 
+
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
