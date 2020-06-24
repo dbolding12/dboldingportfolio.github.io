@@ -1,6 +1,9 @@
 # Desciption of Assignment 
-In this assignment i needed to create a portfolio using bootstrap and other frameworks learned in class. Additionally, I 
-added some personalization and key facts about me. Hope you enjoy what you see. 
+In this assignment I needed to create a portfolio using bootstrap and other frameworks learned in class. Additionally, I 
+added some personalization and key facts about me. Hope you enjoy what you see! Bootstrap is a great framework to build forms,
+grids, and much more. 
+
+---David Bolding---
 
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
