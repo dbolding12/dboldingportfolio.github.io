@@ -1,15 +1,14 @@
 ## Portfolio
-After completing the first half of the course and project one, I have updated my portfolio section to include the project and two of my favorite projects. Additionally, i have added some additional information to my about me, which includes, my email, resume, github and linkedin profile. 
+After completing the first half of the course and project one, I have updated my portfolio section to include the project and two of my favorite projects. Additionally, I have added some additional information to my about me, which includes, my email, resume, github and linkedin profile. 
 
 Link to Portfolio: https://dbolding12.github.io/dboldingportfolio.github.io/
 
 ![Portfolio](./Assets/Images/Portfolio.png)
 
 
-# Desciption of Assignment 
+# Description of Assignment 
 In this assignment I needed to create a portfolio using bootstrap and other frameworks learned in class. Additionally, I 
-added some personalization and key facts about me. Hope you enjoy what you see! Bootstrap is a great framework to build forms,
-grids, and much more. 
+added some personalization and key facts about me. Hope you enjoy what you see! Bootstrap is a great framework to build forms,grids, and much more. 
 
 ---David Bolding---
 
